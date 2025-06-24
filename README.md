@@ -19,4 +19,4 @@ verificación de las vistas y del proyecto dentro de github, también se termin�
 
 Jueves. 19/06/2025
 
-modelos de los respectivos Pokemones creados y terminados, modificación a la base de datos para que quedara sólida y totalmente servible a la hora de ingresar ataques y Pokemones.
+modelos de los respectivos Pokemones creados y terminados, modificación a la base de datos para que quedara sólida y totalmente servible a la hora de ingresar ataques y Pokemones. <<<
