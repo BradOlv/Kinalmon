@@ -7,9 +7,13 @@ Avance de vistas, se han agregado los Pokemones suficientes a la vista de inicio
 
 
 
+
+
 Martes. 17/06/2025
 
 verificación de las vistas y del proyecto dentro de github, también se terminó de agregar a los miembros de todo el equipo.
+
+
 
 
 
