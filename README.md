@@ -7,16 +7,15 @@ Avance de vistas, se han agregado los Pokemones suficientes a la vista de inicio
 <
 <
 <
-
-
 Martes. 17/06/2025
 
 verificación de las vistas y del proyecto dentro de github, también se terminó de agregar a los miembros de todo el equipo.
 <
 <
 <
-
-
 Jueves. 19/06/2025
 
-modelos de los respectivos Pokemones creados y terminados, modificación a la base de datos para que quedara sólida y totalmente servible a la hora de ingresar ataques y Pokemones. <<<
+modelos de los respectivos Pokemones creados y terminados, modificación a la base de datos para que quedara sólida y totalmente servible a la hora de ingresar ataques y Pokemones. 
+<
+<
+<
