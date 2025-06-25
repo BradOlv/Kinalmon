@@ -19,3 +19,12 @@ modelos de los respectivos Pokemones creados y terminados, modificación a la ba
 <
 <
 <
+Viernes. 20/06/2025
+
+Se ha impplementado la habilitación y deshabilitación de los botones, también se han cargado las vistas principales ya hechas y listas para pulir.
+<
+<
+<
+Domingo. 22/06/2025
+
+
